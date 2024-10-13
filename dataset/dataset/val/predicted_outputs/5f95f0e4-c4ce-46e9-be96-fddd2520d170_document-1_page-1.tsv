@@ -1,0 +1,10 @@
+start_index,end_index,x_top_left,y_top_left,x_bottom_right,y_bottom_right,transcript,box_width,box_height,combined_text,predicted_field
+15,18,784,24,891,72,2018,107,48,2018,OTHER
+20,22,900,25,995,73,w-2,95,48,w-2,OTHER
+24,26,1004,25,1093,74,and,89,49,and,OTHER
+28,35,1102,25,1356,74,earnings,254,49,earnings,OTHER
+37,43,1371,24,1620,74,summary,249,50,summary,OTHER
+55,58,412,138,487,167,2910,75,29,2910,OTHER
+64,68,65,2107,122,2132,hints,57,25,hints,OTHER
+97,100,1049,2249,1125,2283,2018,76,34,2018,OTHER
+120,123,1714,2251,1784,2281,2010,70,30,2010,OTHER

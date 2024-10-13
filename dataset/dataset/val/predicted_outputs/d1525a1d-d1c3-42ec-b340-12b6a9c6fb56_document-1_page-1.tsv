@@ -1,0 +1,6 @@
+start_index,end_index,x_top_left,y_top_left,x_bottom_right,y_bottom_right,transcript,box_width,box_height,combined_text,predicted_field
+0,3,789,83,893,137,2018,104,54,2018,taxYear
+5,7,901,77,996,131,w-2,95,54,w-2,OTHER
+9,11,1004,71,1096,126,and,92,55,and,OTHER
+13,20,1104,57,1357,121,earnings,253,64,earnings,OTHER
+22,28,1372,44,1619,108,summary,247,64,summary,OTHER

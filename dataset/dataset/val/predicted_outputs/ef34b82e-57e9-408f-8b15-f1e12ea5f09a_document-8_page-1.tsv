@@ -1,0 +1,12 @@
+start_index,end_index,x_top_left,y_top_left,x_bottom_right,y_bottom_right,transcript,box_width,box_height,combined_text,predicted_field
+0,0,1591,669,1662,724,!!',71,55,!!',OTHER
+17,20,785,63,893,112,2018,108,49,2018,OTHER
+22,24,900,59,997,110,w-2,97,51,w-2,OTHER
+26,28,1004,56,1094,108,and,90,52,and,OTHER
+30,37,1105,48,1358,105,earnings,253,57,earnings,OTHER
+39,45,1372,39,1616,96,summary,244,57,summary,OTHER
+50,52,24,202,94,236,w-2,70,34,w-2,OTHER
+56,60,418,192,493,221,21918,75,29,21918,employerAddressStreet_name
+168,171,1126,2278,1202,2310,2018,76,32,2018,OTHER
+201,204,1791,2254,1872,2291,2018,81,37,2018,OTHER
+216,219,491,2301,567,2335,2918,76,34,2918,OTHER
